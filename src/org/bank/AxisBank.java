@@ -10,5 +10,8 @@ System.out.println("fixed is 12%");
 		System.out.println("deposit is 10 %");
 
 	}
+public void saving() {
+	System.out.println("saving is 40%");
 
+}
 }
